@@ -1,9 +1,0 @@
-org\pwr\jlabel\LabelContainer.class
-org\pwr\laboratory\Laboratory.class
-org\pwr\entity\Specimen.class
-org\pwr\Main.class
-org\pwr\gui\MyFrame.class
-org\pwr\thread\CustomThread.class
-org\pwr\entity\LaboratoryEmployee.class
-org\pwr\updater\StateUpdater.class
-org\pwr\entity\FoodHolder.class
